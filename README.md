@@ -48,15 +48,17 @@
 
 3.2 高通ADSP DUMP功能
 
-T32工具需要自己安装一下(此工具涉及版权，这里不提供) [图片]
+T32工具需要自己安装一下(此工具涉及版权，这里不提供)
+<img width="980" height="399" alt="image" src="https://github.com/user-attachments/assets/5939dd0f-0322-43f4-a13b-a3b7c2be9bea" />
 
 3.3 高通RPM解析
 
-[图片]
+<img width="990" height="306" alt="image" src="https://github.com/user-attachments/assets/06f2b5c3-8a1a-43bb-ae4e-5b15189b0a19" />
 
 3.4 TZ解析
 
-[图片]
+<img width="990" height="306" alt="image" src="https://github.com/user-attachments/assets/05a77611-82ad-4594-8e2d-63c705b921d1" />
+
 
 3.5 高通9008解析 -- 此功能可能存在点问题，如果有问题，请反馈
 
